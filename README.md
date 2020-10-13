@@ -1,2 +1,2 @@
 # e-mail signatures
-My various e-mail signatures
+A collection of some e-mail signatures
